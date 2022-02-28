@@ -1,1 +1,1 @@
-This assignment covers all the concepts in relation linear methods of regression and classification.
+This assignment covers all the concepts in relation with linear methods of regression and classification.
